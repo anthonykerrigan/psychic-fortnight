@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\Twitch Bot\\Twitch Bot.csproj": {}
+    "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\Twitch Bot\\Twitch Bot.csproj": {
+    "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\Twitch Bot\\Twitch Bot.csproj",
+        "projectUniqueName": "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj",
         "projectName": "Twitch Bot",
-        "projectPath": "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\Twitch Bot\\Twitch Bot.csproj",
+        "projectPath": "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj",
         "packagesPath": "C:\\Users\\AKerrig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\Twitch Bot\\obj\\",
+        "outputPath": "C:\\Users\\AKerrig\\Documents\\Repos\\Dev\\C# Learning\\psychic-fortnight\\Twitch Bot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKerrig\\AppData\\Roaming\\NuGet\\NuGet.Config",

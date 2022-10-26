@@ -12,7 +12,7 @@ namespace HelloWorld
 
             string ipAddress = "irc.chat.twitch.tv"; 
             int port = 6667; 
-            string password = "oauth:k15bxuyu3u17hylq79o6829npekjq9";
+            string password = "oauth:";
             string botUsername = "The_Guild_Bot"; 
 
             var tcpClient = new TcpClient(); 
@@ -27,8 +27,8 @@ namespace HelloWorld
 
             await streamWriter.WriteLineAsync($"PASS {password}"); 
             await streamWriter.WriteLineAsync($"NICK {botUsername}");
-            await streamWriter.WriteLineAsync($"JOIN Kabaneku");
-            await streamWriter.WriteLineAsync("PRIVMSG #Kabaneku :I have successfully sent the Test Message");
+            await streamWriter.WriteLineAsync($"JOIN #Kabaneku");
+            await streamWriter.WriteLineAsync($"PRIVMSG #Kabaneku :HAVE NO FEAR! I AM HERE!");
 
             while (true) 
             {
