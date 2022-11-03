@@ -10,7 +10,7 @@ namespace The_Guild_Bot
     {
         static async Task Main(string[] args)
         {
-            string password = "oauth:lhormbzxjdr49cblo7svk0y24o9sid";
+            string password = "oauth:";
             string botUsername = "the_guild_bot";
             string channelName = "kabaneku"; 
 
