@@ -28,3 +28,18 @@ C:\Users\AKerrig\Documents\Repos\Dev\C# Learning\psychic-fortnight\Twitch Bot\ob
 C:\Users\AKerrig\Documents\Repos\Dev\C# Learning\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.pdb
 C:\Users\AKerrig\Documents\Repos\Dev\C# Learning\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.genruntimeconfig.cache
 C:\Users\AKerrig\Documents\Repos\Dev\C# Learning\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\ref\Twitch Bot.dll
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\bin\Debug\net6.0\Twitch Bot.exe
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\bin\Debug\net6.0\Twitch Bot.deps.json
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\bin\Debug\net6.0\Twitch Bot.runtimeconfig.json
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\bin\Debug\net6.0\Twitch Bot.dll
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\bin\Debug\net6.0\Twitch Bot.pdb
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.csproj.AssemblyReference.cache
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.AssemblyInfoInputs.cache
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.AssemblyInfo.cs
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.csproj.CoreCompileInputs.cache
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.dll
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\refint\Twitch Bot.dll
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.pdb
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\Twitch Bot.genruntimeconfig.cache
+C:\Users\kerri\Documents\Development\psychic-fortnight\Twitch Bot\obj\Debug\net6.0\ref\Twitch Bot.dll
