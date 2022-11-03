@@ -12,15 +12,17 @@ namespace The_Guild_Bot
         const int port = 6667; 
         private string nick; 
         private string password;
+        private string channelName; 
         private StreamReader streamReader; 
         private StreamWriter streamWriter; 
 
         private TaskCompletionSource<int> connected = new TaskCompletionSource<int>();
 
-        public bot_start(string nick, string password)
+        public bot_start(string nick, string password, string channelName)
         {
             this.nick = nick;
             this.password = password;
+            this.channelName = channelName; 
         }
 
         public async Task Start()
@@ -32,7 +34,12 @@ namespace The_Guild_Bot
             
             await streamWriter.WriteLineAsync($"PASS {password}");
             await streamWriter.WriteLineAsync($"NICK {nick}");
+            await streamWriter.WriteLineAsync($"JOIN #{channelName}"); 
+            await streamWriter.WriteLineAsync($"PRIVMSG #{channelName} :HAVE NO FEAR! I AM HERE!");
+            System.Console.WriteLine("Check Chat for All Might!");
             connected.SetResult(0);
+            //
+            //
 
             while (true)
             {
@@ -46,6 +53,7 @@ namespace The_Guild_Bot
                 {
                     await streamWriter.WriteLineAsync($"PONG {split[1]}");
                     System.Console.WriteLine($"PONG {split[1]}");
+                    //await streamWriter.WriteLineAsync($"PRIVMSG #Kabaneku :I'm still there. Kab make sure you remove this line after testing"); 
                 }
 
                 if (split.Length > 1 && split[1] == "PRIVMSG")
