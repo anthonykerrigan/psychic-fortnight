@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ySc9/dQB4nTgmC5yw8bEXwaOiMxxAxhfiwv46L+zd72nboQtMPzNZ/yxO+dOhLMjgsvQ+gkky10SCcO0lKu2sw==",
+  "dgSpecHash": "P42PXEFRQwnuQ4Iprk+rzIBQALYQNh16t/CUGTp2/yG6cDZB93Q40OrSguuxeUmbp1IeH2dROU1/TylOzqlUng==",
   "success": true,
   "projectFilePath": "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kerri\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-rc.2.22472.3\\microsoft.win32.systemevents.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kerri\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0-rc.2.22472.3\\system.configuration.configurationmanager.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kerri\\.nuget\\packages\\system.drawing.common\\7.0.0-rc.2.22472.3\\system.drawing.common.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kerri\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0-rc.2.22472.3\\system.security.cryptography.protecteddata.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kerri\\.nuget\\packages\\system.security.permissions\\7.0.0-rc.2.22472.3\\system.security.permissions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\kerri\\.nuget\\packages\\system.windows.extensions\\7.0.0-rc.2.22472.3\\system.windows.extensions.7.0.0-rc.2.22472.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj": {}
+    "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj": {
+    "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj",
+        "projectUniqueName": "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj",
         "projectName": "Hello World",
-        "projectPath": "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj",
+        "projectPath": "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\Hello World.csproj",
         "packagesPath": "C:\\Users\\kerri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kerri\\AppData\\Roaming\\NuGet\\NuGet.Config"

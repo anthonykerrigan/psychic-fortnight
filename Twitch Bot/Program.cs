@@ -8,13 +8,12 @@ namespace The_Guild_Bot
 {
     class Program
     {
+        static string botPass = ConfigurationManager.AppSettings.Get("botPass");
+        static string channelName = ConfigurationManager.AppSettings.Get("channelName");
+        static string botUsername = ConfigurationManager.AppSettings.Get("botUsername");
         static async Task Main(string[] args)
         {
-            string password = "oauth:";
-            string botUsername = "the_guild_bot";
-            string channelName = "kabaneku"; 
-
-            var bot_start = new bot_start(botUsername, password, channelName);
+            var bot_start = new bot_start(botUsername, botPass, channelName);
             await bot_start.Start();
             await Task.Delay(-1);
             Console.WriteLine("This is never run");    

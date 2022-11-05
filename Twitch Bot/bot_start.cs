@@ -13,8 +13,8 @@ namespace The_Guild_Bot
         private string nick; 
         private string password;
         private string channelName; 
-        private StreamReader streamReader; 
-        private StreamWriter streamWriter; 
+        public StreamReader streamReader; 
+        public StreamWriter streamWriter; 
 
         private TaskCompletionSource<int> connected = new TaskCompletionSource<int>();
 
@@ -44,7 +44,7 @@ namespace The_Guild_Bot
             while (true)
             {
                 string line = await streamReader.ReadLineAsync();
-                Console.WriteLine(line);
+                System.Console.WriteLine(line);
                 
                 string[] split = line.Split(" ");
                 //PING :tmi.twitch.tv
@@ -66,7 +66,10 @@ namespace The_Guild_Bot
                     //Skip the first character, the first colon, then find the next colon
                     int secondColonPosition = line.IndexOf(':', 1);//the 1 here is what skips the first character
                     string message = line.Substring(secondColonPosition + 1);//Everything past the second colon
+                    
                 }
+                
+                
             }
         }
     }
