@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj": {}
+    "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj": {
+    "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj",
+        "projectUniqueName": "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj",
         "projectName": "Twitch Bot",
-        "projectPath": "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj",
+        "projectPath": "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\Twitch Bot.csproj",
         "packagesPath": "C:\\Users\\kerri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\obj\\",
+        "outputPath": "c:\\Users\\kerri\\Documents\\Development\\psychic-fortnight\\Twitch Bot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kerri\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AsyncAwaitBestPractices": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[7.0.0-rc.2.22472.3, )"

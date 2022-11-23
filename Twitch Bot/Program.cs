@@ -4,6 +4,7 @@ using System.Net.Sockets;
 using System.Threading.Tasks; 
 using System.Configuration; 
 using System.Collections.Specialized; 
+
 namespace The_Guild_Bot
 {
     class Program
@@ -14,7 +15,7 @@ namespace The_Guild_Bot
         static async Task Main(string[] args)
         {
             var bot_start = new bot_start(botUsername, botPass, channelName);
-            await bot_start.Start();
+            bot_start.Start();
             await Task.Delay(-1);
             Console.WriteLine("This is never run");    
         }
